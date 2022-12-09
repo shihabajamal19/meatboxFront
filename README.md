@@ -1,4 +1,4 @@
-PizzaGirl
+MeatBix BD
 
 1.Designed, developed and deployed a MERN stack web application for restaurants where customers can see the food menu, order, authenticate and see their orders dashboard and owners can create, delete, update the food menu and review orders.
 
